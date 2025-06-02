@@ -1,0 +1,6 @@
+python-telegram-bot
+httpx
+Pillow 
+pytz
+tzlocal<3
+apscheduler
